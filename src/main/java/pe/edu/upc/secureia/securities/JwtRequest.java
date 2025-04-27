@@ -19,7 +19,7 @@ public class JwtRequest implements Serializable {
 	private String password;
 	public JwtRequest() {
 		super();
-		// TODO Auto-generated constructor stub
+
 	}
 	public JwtRequest(String username, String password) {
 		super();
